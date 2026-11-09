@@ -1,5 +1,6 @@
 print("podaj liczbe a")
 a = int(input())
+
 print("podaj liczbe b")
 b = int(input())
 
